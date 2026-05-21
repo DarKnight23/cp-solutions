@@ -10,7 +10,7 @@ My competitive programming journey from scratch.
 **Progress:**
 | Rating | Solved |
 |--------|--------|
-| 800    | 41      |
+| 800    | 42      |
 | 900    | 0      |
 | 1000   | 0      |
 
